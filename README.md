@@ -11,5 +11,5 @@ TecBlog é um web site de tecnologia que oferece notícias atualizadas, análise
 
 # Tecnologias Utilizadas
 
-- Html5
-- Css3
+- HTML5
+- CSS3
