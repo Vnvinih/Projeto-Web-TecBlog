@@ -1,4 +1,4 @@
-# Projeto-Web-TecBlog
+# Projeto Web TecBlog
 
 # Sobre o projeto
 
